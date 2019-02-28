@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "0cl-0n-KAg"; */
+"0cl-0n-KAg.text" = "Name";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "SaD-Rg-PEr"; */
+"SaD-Rg-PEr.text" = "Value";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "ZGR-WB-7JJ"; */
+"ZGR-WB-7JJ.text" = "Location";
+
+/* Class = "UILabel"; text = "Key"; ObjectID = "dds-Tr-i8p"; */
+"dds-Tr-i8p.text" = "Key";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "lYS-EP-7pO"; */
+"lYS-EP-7pO.text" = "Type";
